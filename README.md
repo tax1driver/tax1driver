@@ -9,9 +9,9 @@
 ---
 
 *MedusaJS (v2) plugins:*
+- [medusa-stats](https://github.com/tax1driver/medusa-stats) - Robust analytics and stats plugin for MedusaJS
 - [medusa-payu](https://github.com/tax1driver/medusa-payu) - PayU payment integration
 - [medusa-tpay](https://github.com/tax1driver/medusa-tpay) - tpay payment integration
-- [medusa-stats](https://github.com/tax1driver/medusa-stats) - Robust analytics and stats plugin for MedusaJS
 
 ---
 

@@ -4,7 +4,6 @@
 `💻 JS, TS, Web, Java` <br>
 `🎓 UEP`
 
-<br>
 
 ---
 

@@ -23,4 +23,3 @@
 - [autoform](https://github.com/tax1driver/autoform) - Automatic zod-schema-based form view generation util library 
 - [steamaccgen](https://github.com/tax1driver/steamaccgen) - Steam account generator
 - [arb](https://github.com/tax1driver/arb) - Arbitrage opportunity explorer for decentralized crypto exchanges
----

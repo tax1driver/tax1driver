@@ -1,7 +1,7 @@
 ***Full-stack Developer***
 
-`🌐 Katowice, Silesia, 🇵🇱`
-`💻 JS, TS, Web, Java`
+`🌐 Katowice, Silesia, 🇵🇱` <br>
+`💻 JS, TS, Web, Java` <br>
 `🎓 UEP`
 
 <br>

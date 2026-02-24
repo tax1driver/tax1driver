@@ -16,7 +16,7 @@
 
 *Other projects:*
 - [ts-przelewy24](https://github.com/tax1driver/ts-przelewy24) - Complete wrapper for Przelewy24's REST API (thanks to [ingameltd](https://github.com/ingameltd) for the original project)
-- [node-inpost](https://github.com/tax1driver/node-inpost) - Complete wrapper for InPost's ShipX API
+- [ts-inpost](https://github.com/tax1driver/node-inpost) - Complete wrapper for InPost's ShipX API
 - [ts-tpay](https://github.com/tax1driver/ts-tpay) - Complete wrapper for tpay's REST API
 - [ts-payu](https://github.com/tax1driver/ts-payu) - Complete wrapper for PayU's REST API
 - [autoform](https://github.com/tax1driver/autoform) - Automatic zod-schema-based form view generation util library 

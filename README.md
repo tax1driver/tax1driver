@@ -1,4 +1,5 @@
 ***Full-stack Developer***
+
 `🌐 Katowice, Silesia, 🇵🇱` <br>
 
 ---
